@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+#myCanvas {
+    margin: auto;
+    min-width: 500px
+}
+
+#timelabel {
+    margin: auto;
+    margin-left: 250px;
+    font-size: 40px;
+    font-family: fantasy;
+}
+
+#mazediv {
+    margin: auto;
+    margin-left: 30%;
+    min-width: 700px;
+}
